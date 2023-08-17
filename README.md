@@ -14,6 +14,6 @@ Dynamic Price Analysis with Supplier Metrics 🌌 Predict prices like a cosmic v
 
 1. **Clone or download** this celestial repository.
 
-2. **Install the required packages** if not already installed:
+2. **Install the required packages** if not already installed
    
  
